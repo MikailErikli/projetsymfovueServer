@@ -1,0 +1,10 @@
+.tab-content{
+    display: none;
+}
+
+.tab-content.active{
+    display: block;
+}
+.tabs .active{
+    color: #FF0000;
+}
